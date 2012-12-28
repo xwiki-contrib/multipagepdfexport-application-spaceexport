@@ -27,6 +27,7 @@
     <artifactId>xwiki-commons-pom</artifactId>
     <version>4.3.1</version>
   </parent>
+  <groupId>org.xwiki.contrib</groupId>
   <artifactId>xwiki-multipagepdfexport-application-spaceexport</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>XWiki MultipagePdfExport Application - Space Export</name>
