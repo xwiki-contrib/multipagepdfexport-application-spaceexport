@@ -37,9 +37,9 @@
     <xwiki.platform.version>4.3.1</xwiki.platform.version>
   </properties>
   <scm>
-    <connection>scm:git:git://github.com/xwiki-contrib/multipagepdfexport.git</connection>
-    <developerConnection>scm:git:git@github.com:xwiki-contrib/multipagepdfexport.git</developerConnection>
-    <url>https://github.com/xwiki-contrib/multipagepdfexport.git</url>
+    <connection>scm:git:git://github.com/xwiki-contrib/multipagepdfexport-application-spaceexport.git</connection>
+    <developerConnection>scm:git:git@github.com:xwiki-contrib/multipagepdfexport-application-spaceexport.git</developerConnection>
+    <url>https://github.com/xwiki-contrib/multipagepdfexport-application-spaceexport.git</url>
   </scm>
   <distributionManagement>
     <repository>
