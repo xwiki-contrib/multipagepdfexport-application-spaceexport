@@ -28,7 +28,7 @@
     <version>4.3.1</version>
   </parent>
   <artifactId>xwiki-multipagepdfexport-application-spaceexport</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>XWiki MultipagePdfExport Application - Space Export</name>
   <description>Application that uses the multipagepdfexport Api to provide an interface 
                for the export of a space using a hierarchy based UI.</description>
@@ -40,7 +40,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/multipagepdfexport-application-spaceexport.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/multipagepdfexport-application-spaceexport.git</developerConnection>
     <url>https://github.com/xwiki-contrib/multipagepdfexport-application-spaceexport.git</url>
-    <tag>xwiki-multipagepdfexport-application-spaceexport-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
