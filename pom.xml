@@ -31,8 +31,7 @@
   <artifactId>xwiki-multipagepdfexport-application-spaceexport</artifactId>
   <version>1.1-SNAPSHOT</version>
   <name>XWiki MultipagePdfExport Application - Space Export</name>
-  <description>Application that uses the multipagepdfexport Api to provide an interface 
-               for the export of a space using a hierarchy based UI.</description>
+  <description>Application that uses the multipagepdfexport Api to provide an interface for the export of a space using a hierarchy based UI.</description>
   <packaging>xar</packaging>
   <properties>
     <xwiki.platform.version>4.3.1</xwiki.platform.version>
